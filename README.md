@@ -1,11 +1,5 @@
 # A Machine Learning Approach to Evaluating Red Wine Quality
 
-## Overview:
-
- * #### Applied machine learning algorithms including multiple linear regression, classification tree, and random forest in R to help wineries identify key physicochemical properties that influence red wine quality. 
- * #### Determined the optimal multiple linear regression model, which showed chloride concentration and pH level negatively affected red wine quality. 
- * #### Improved the classification tree model’s accuracy rate to 87% with a random forest model and found alcohol content, sulfate concentration, and volatile acidity to be the most impactful variables on red wine quality.
----
 
 
 ## Motivation for this Project:
@@ -18,7 +12,7 @@
      - it can potentialy be applied to the wine certification process to help oenologists make faster and more consistent assessments.
      - it can also allow wineries to optimize wine quality by focusing on key chemical variables
     
-<br/><br/>
+
 ### Data Set Overview:
 
 * [The red wine data set](https://archive.ics.uci.edu/ml/datasets/wine+quality) contains 12 columns and 1599 rows of data.
@@ -37,7 +31,6 @@
 * Output Variable
    - quality (scale of 0 to 10)
 
-<br/><br/>
 ## Classification Tree Model:
 
 
