@@ -15,7 +15,7 @@
 
 ### Data Set Overview:
 
-* [The red wine data set](https://archive.ics.uci.edu/ml/datasets/wine+quality) contains 12 columns and 1599 rows of data.
+* The red wine data set contains 12 columns and 1599 rows of data.
 * Input variables:
    - fixed acidity  
    - volatile acidity  
