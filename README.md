@@ -4,12 +4,12 @@
 
 ## Motivation for this Project:
 
- * The global red wine industry is growing rapdily, and the demand for great tasting wines continues to increase.
- * Wine tasting is an essential part of the wine certifcaiton process, but subjective factors are involved.
+ * The global red wine industry is growing rapidly, and the demand for great-tasting wines continues to increase.
+ * Wine tasting is an essential part of the wine certification  process, but subjective factors are involved.
 
 
  * If the model of this project can forecast wine quality based on physicochemical properties to a high degree
-     - it can potentialy be applied to the wine certification process to help oenologists make faster and more consistent assessments.
+     - it can potentially be applied to the wine certification process to help oenologists make faster and more consistent assessments.
      - it can also allow wineries to optimize wine quality by focusing on key chemical variables
     
 
@@ -42,8 +42,8 @@
 * Randomly sampled ½ of the observations from the full data set
   - Training data set (799 rows)
   - Testing data set  (800 rows)
-* Plotted the error rate a function of tree size to determine the optimal tree complexity (optimal size = 8)
-* Pruned the initial classificaiton tree to improve model accuracy
+* Plotted the error rate as a function of tree size to determine the optimal tree complexity (optimal size = 8)
+* Pruned the initial classification tree to improve model accuracy
 
 ### Results:
 
